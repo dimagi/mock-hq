@@ -1,0 +1,3 @@
+[submodule "submodules/load.sh"]
+	path = submodules/load.sh
+	url = https://github.com/millerdev/load.sh.git
